@@ -7,6 +7,6 @@ public class Constantes {
 	final static String regex3 = "(\\\\u0026)";
 	final static String subst = "&";
 	
-	static String ruta = "C:\\Users\\Dario\\Downloads\\idDownloader\\foto";
+	static String ruta = "*****";
 	final static String formato = ".jpg";
 }
